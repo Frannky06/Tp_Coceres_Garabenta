@@ -1,4 +1,4 @@
-#Alumnos: Francisco Coceres y Tomas Garabenta
+#Alumnos: Francisco Lautaro Coceres y Tomas Garabenta
 # Un cliente ha solicitado un sistema básico para gestionar las ventas de su quiosco llamado
 # Yoda's Snack. El programa debe cumplir con las siguientes funcionalidades:
 # 1. Menú principal:
